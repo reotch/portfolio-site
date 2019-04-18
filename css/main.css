@@ -1,0 +1,42 @@
+/* @import "./styles.css"; */
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: lightblue;
+}
+
+main {
+	width: 68%;
+}
+
+header {
+	background-color: slategrey;
+}
+
+article {
+	margin: 20px;
+	background-color: ghostwhite;
+	padding: 20px;
+}
+
+section {
+	background-color: cornflowerblue;
+}
+
+footer {
+
+}
+
+aside {
+	float: right;
+	margin: 0px;
+	position: static;	
+	background-color: green;
+}
+
+.carousel {
+	width: 800px;
+	height: 600px;
+	margin: 45px auto;
+}
